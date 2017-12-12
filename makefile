@@ -1,5 +1,3 @@
-#This will be fixed soon
-
 CC=gcc
 CFLAGS= -std=c11
 LFLAGS= -lncurses
