@@ -1,3 +1,5 @@
+#Echo hi
+
 CC=gcc
 CFLAGS= -std=c11
 LFLAGS= -lncurses
